@@ -5,12 +5,16 @@
   ✔️ 6월 9일 로그인 파트가 추가되었습니다. <br> 
   ✔️ 6월 13일부로 로그인, 마이페이지 프론트 작업을 완료했습니다. <br>
   
+  <br>
   
 > ### <b> branch 설명 </b>
   
 #### 🌵 master
 #### ➿ 최종 front 작업물이 올라와있는 브랜치입니다.
-#### ➿ 폴더 설명
+#### ➿ template : 로그인, 마이페이지 html 파일을 업로드 한 폴더입니다. 
+#### ➿ assets : 로그인, 마이페이지 image 파일, css와 js  업로드 한 폴더입니다. 
+
+<br>
 
 #### 🌵 mypage/mypageVersion01
 #### 🌵 mypage/mypageVersion02
